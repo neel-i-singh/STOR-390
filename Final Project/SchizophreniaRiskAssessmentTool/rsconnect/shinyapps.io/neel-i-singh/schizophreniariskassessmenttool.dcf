@@ -1,0 +1,12 @@
+name: schizophreniariskassessmenttool
+title: SchizophreniaRiskAssessmentTool
+username: neel-i-singh
+account: neel-i-singh
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13555675
+bundleId: 9507486
+url: https://neel-i-singh.shinyapps.io/schizophreniariskassessmenttool/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
